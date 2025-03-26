@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi there, I'm Mahima Lolla
 
-<!--
-**mahimalolla/mahimalolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate Student @ Northeastern University (MS in Computer Science)  
+💻 Software Developer | Aspiring Data Scientist | AI/ML Enthusiast  
+🌍 Based in Boston, MA | Open to internships & co-op opportunities for Summer 2025
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack & Tools
+- **Languages:** Python, Java, JavaScript, C++, SQL  
+- **Data Science/ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn  
+- **Web Dev:** React, HTML, CSS, Spring Boot, REST APIs  
+- **Automation & Testing:** Selenium, TestNG, Carina Framework  
+- **Tools & Platforms:** Git, Docker, Apache Kafka, Hadoop, Airflow, MongoDB, GCP, Firebase  
+
+---
+
+### 📬 Let's Connect!
+📧 Email: lolla.m@northeastern.edu 
+🔗 [LinkedIn](https://www.linkedin.com/in/mahimalolla)  
+
+

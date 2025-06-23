@@ -2,7 +2,7 @@
 
  Graduate Student @ Northeastern University (MS in Computer Science)  
  Software Developer | Aspiring Data Scientist | AI/ML Enthusiast  
- Based in Boston, MA | Open to internships & co-op opportunities for Summer 2025
+ Based in Boston, MA | Open to internships & co-op opportunities for Fall 2025
 
 ---
 
